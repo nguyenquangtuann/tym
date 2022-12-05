@@ -1,0 +1,10 @@
+
+body{overflow:hidden;}
+.hehe{
+    padding: 50px;
+    text-align: center;
+}
+svg {
+  width: 68%;
+  height: 50%;
+}
